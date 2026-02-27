@@ -1,0 +1,347 @@
+1. 2dSearch: Proprietary.
+2. Adobe Illustrator CC: Proprietary.
+3. A2A (Apples to Apples): SaaS/No public repo.
+4. AlvisIR Food semantic search engine: SaaS/No public repo.
+5. BADERI: SaaS/No public repo.
+6. BEST (Biomedical Entity Search Tool): SaaS/No public repo.
+7. BioReader: SaaS/No public repo.
+8. Cientopolis Scolr: SaaS/No public repo.
+9. CiteSpace: Proprietary.
+10. CiteNetExplorer: Source code private.
+11. CiteSeerX: SaaS/Hosted service.
+12. Citavi: Proprietary.
+13. Cochrane RevMan calculators: Proprietary.
+14. Cochrane NMA toolkit: Resource collection/No software.
+15. Comprehensive Meta-Analysis (CMA): Proprietary.
+16. Connected Papers: Proprietary.
+17. Coremine Medical: SaaS.
+18. CrowdCARE: SaaS.
+19. Data Abstraction Assistant (DAA): SaaS.
+20. Deduklick: Proprietary.
+21. DisMaNet: Service/Not software.
+22. DistillerSR: Proprietary.
+23. Doctor Evidence (DOC Data): Proprietary.
+24. DTA MA (Diagnostic Test Accuracy Meta-Analysis): SaaS.
+25. Eppi-Mapper: Proprietary/Closed.
+26. EndNote: Proprietary.
+27. EPPI-Reviewer: Proprietary.
+28. Fiddle: Service.
+29. GALAXY: Bioinformatics platform.
+30. GRADEpro: Proprietary.
+31. Graph Commons: SaaS.
+32. HAWC: Institutional/No public repo.
+33. HEpiMA: Source on request only/No public repo.
+34. Import.io: Commercial SaaS.
+35. Inciteful.xyz: SaaS.
+36. INMEX: Web interface source not public.
+37. JBI-SUMARI: Proprietary.
+38. Jane (Journal/Author Name Estimator): Proprietary service.
+39. JSTOR Text Analyser: Service.
+40. Leaf: Institutional/Closed.
+41. Litmaps: Proprietary.
+42. LitSuggest: Service.
+43. MAGICapp: Commercial/Institutional.
+44. MarkerDB: Database.
+45. MedCalc: Proprietary.
+46. Medline (PubMed) trend: Service.
+47. MeSH on Demand: Proprietary service.
+48. Meta-Analysis Accelerator: Freemium/Source private.
+49. MetaAnalysisOnline.com: Source code private.
+50. MetaInsight: SaaS/No public repo found.
+51. MetaMap: Restricted license.
+52. MetaXL: Proprietary.
+53. MetAnalysis: Proprietary.
+54. MicrobiomeAnalyst: Web interface proprietary.
+55. Microsoft Publisher: Proprietary.
+56. MIX 2.0: Proprietary.
+57. NAILS (Network Analysis Interface for Literature Studies): SaaS.
+58. Nested-Knowledge: Proprietary.
+59. NetworkAnalyst: Bioinformatics platform.
+60. Network explorer: Service.
+61. Neurosynth Compose: Data repository.
+62. NVivo: Proprietary.
+63. OmicsView: Bioinformatics platform.
+64. OriginPro: Proprietary.
+65. PEx (Project Explorer): Proprietary/Closed.
+66. Paperpile: Proprietary.
+67. Papers: Proprietary.
+68. Polyglot Search Translator: Web service.
+69. Practical Meta-Analysis Effect Size Calculator: Service.
+70. PRISMA Flow Diagram Generator: Service.
+71. Pymeta: Service.
+72. PubMed PICO Tool: Service.
+73. Publish or Perish: Proprietary.
+74. Qiqqa: Proprietary.
+75. Quertle: Proprietary.
+76. Rayyan: Proprietary.
+77. RefWorks: Proprietary.
+78. ResearchRabbit: Proprietary.
+79. Research Screener: SaaS.
+80. Review Manager (RevMan): Proprietary.
+81. RobotAnalyst: Proprietary/No public repo.
+82. SAS: Proprietary.
+83. scite.ai: Proprietary.
+84. SciMAT: Source on uni web/No public repo.
+85. Screenatron: Web service.
+86. SnowGlobe: Source not public.
+87. SPSS: Proprietary.
+88. SRDB.PRO: Proprietary.
+89. StArt tool: Source code private.
+90. Stata: Proprietary.
+91. SWIFT-Active Screener: Proprietary.
+92. SWIFT-Review: Proprietary.
+93. Syras: Proprietary.
+94. SyRF: Proprietary.
+95. SysRev: Proprietary.
+96. Systematic Review Assistant: Prototype/No public repo.
+97. Systematic Review Data Repository (SRDR): Platform/Service.
+98. Systematic Review Toolbox: Catalogue.
+99. Table Builder: Institutional/No public repo.
+100. TaskExchange: Service.
+101. The albatross plot: Requires proprietary Stata.
+102. Trialstreamer: Service.
+103. Trip Rapid Reviews: Service.
+104. Vitruvian Plot: Non-commercial license/Not OSI.
+105. WebPlotDigitizer (v5+): Proprietary.
+106. WEasyMA: Proprietary.
+107. What review is right for you?: Service.
+108. WordStat: Proprietary.
+109. Yale MeSH Analyzer: Proprietary service.
+110. yEd Graph Editor: Proprietary.
+111. Catchii: Source not public.
+112. Dedupr: Internal service/No public repo.
+113. Disputatron: Web service.
+114. Medsyntax: Source not public.
+115. PubMed PubReMiner: Web-only.
+116. RCT Tagger: Web service.
+117. SRDR+: Source not found.
+118. Citation and Text-Based Framework for Retrieving Publications: Prototype.
+119. doi2txt: Never fully developed.
+120. ExaCT: Prototype.
+121. forestr: Never fully developed.
+122. GS Scraper: Never fully developed.
+123. Grey Literature Reporter: Abandoned/In development.
+124. GreyLitScrapR: Abandoned/In development.
+125. ICASR Integration Engine (Integration & Research Weaving): Never developed.
+126. Paperweight: Prototype.
+127. PDF Annotation: Prototype.
+128. PDF Reference Extraction: Prototype.
+129. Reference Completer: Never fully developed.
+130. Search Strategist: Never developed.
+131. ACTIVE framework: Framework.
+132. AMSTAR / AMSTAR 2 / R-AMSTAR: Checklist.
+133. Anatomy of a Systematic Review: Guide.
+134. A multicomponent decision tool for prioritising the updating of systematic reviews: Decision aid.
+135. AppRaise: Framework/Uncertainty tool.
+136. BestBETs Critical Appraisal Worksheets: Checklist/PDF.
+137. Campbell evidence gap map guidance: Guidance.
+138. CARE Checklist: Checklist.
+139. CASP Checklists: Checklist.
+140. CHEERS checklist: Checklist.
+141. Checklist to operationalize measurement characteristics of patient-reported outcome measures: Checklist.
+142. Checklist: Economic Evaluations: Checklist.
+143. CheckMAP: Checklist.
+144. COSMIN Risk of Bias checklist: Checklist.
+145. Collaboration for Environmental Evidence Critical Appraisal Tool: Checklist.
+146. DECiMAL: Guide.
+147. Downs and Black: Checklist.
+148. DUFSS: Questionnaire.
+149. Dyba and Dingsoyr Quality Criteria: Criteria.
+150. Effective Public Health Practice Project (EPHPP) Quality Assessment Tool: Checklist.
+151. EMERGE: Framework.
+152. EMPRO Tool: Framework/Rubric.
+153. ENTREQ: Guideline.
+154. FLC 3.0 critical appraisal tools: Closed source/Checklist.
+155. Facilitating access to pre-processed research evidence in public health: Guidance.
+156. Grey Matters: Guide/Checklist.
+157. GRIM test calculator: Service/Calculator.
+158. GRIPP2: Checklist.
+159. Guidelines for Performing Systematic Literature Reviews in Software Engineering: Guideline.
+160. Health Evidence Bulletin Wales: Checklist.
+161. How to Read Articles That Use Machine Learning: Guidance.
+162. ISPOR-AMCP-NPC: Questionnaire.
+163. JBI Critical Appraisal Tools: Checklist.
+164. John Hopkins University ClinicalTrials.gov Checklist: Checklist.
+165. ML-PICO: Framework.
+166. MATES: Checklist.
+167. Mixed Methods Appraisal Tool (MMAT): Checklist.
+168. Newcastle-Ottawa Scale (NOS): Checklist.
+169. NICE TARs checklist: Checklist.
+170. ORBIT (Outcome Reporting Bias in Trials) Matrix Generator: Service.
+171. PerSPEcTiF: Framework.
+172. PRECIS-2: Checklist.
+173. Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) Statement (and extensions): Guideline.
+174. PRESS Peer Review of Electronic Search Strategies: Guideline.
+175. PROBAST: Checklist.
+176. Protocol Format for Systematic Reviews of Animal Intervention Studies: Protocol format.
+177. QAVALS: Checklist.
+178. QATSO: Checklist.
+179. Quality Assessment Tool for Observational Cohort and Cross-Sectional Studies: Checklist.
+180. Quality in Prognosis Studies (QUIPS): Checklist.
+181. QATSDD: Checklist.
+182. Quality in Qualitative Evaluation: Framework.
+183. Quality assessment with diverse studies (QuADS): Checklist.
+184. RAMESES: Standards.
+185. Reporting Machine Learning Analyses in Clinical Research: Guideline.
+186. RETREAT: Decision tool.
+187. Risk of bias assessment checklist for studies included in systematic reviews on drug adverse events: Checklist.
+188. Risk of Bias Assessment Tool for Nonrandomized Studies (RoBANS): Checklist.
+189. ROB 2.0: Methodology.
+190. ROB-ME: Methodology.
+191. ROB-MEN: Methodology/Checklist.
+192. ROBINS-E: Methodology.
+193. ROBINS-I: Methodology.
+194. ROBIS: Methodology.
+195. ROSES: Checklist.
+196. Robme: Checklist.
+197. RoB NMA tool: Methodology.
+198. RTI Item Bank: Framework.
+199. SANRA: Checklist.
+200. Science in Risk Assessment and Policy (SciRAP): Checklist.
+201. Scottish Intercollegiate Guidelines Network (SIGN) Critical Appraisal Checklists: Checklist.
+202. Search Guide for Animal Studies: Guide.
+203. Sex and Gender Appraisal Tool for Systematic Reviews (SGAT-SR): Checklist.
+204. Sonar: No valid tool found/Description mismatch.
+205. SPIDER: Framework.
+206. SQUIRE 2.0: Guideline.
+207. STARD: Guideline.
+208. STROBE Statement: Guideline.
+209. Specialist Unit for Research Evidence (SURE) Qualitative Studies Checklist: Checklist.
+210. Specialist Unit for Research Evidence (SURE) RCT and Other Experimental Studies Checklist: Checklist.
+211. Specialist Unit for Research Evidence (SURE) Systematic Review Checklist: Checklist.
+212. Synthesis Without Meta-analysis (SWiM): Guideline.
+213. SYRCLE Risk of Bias Tool: Checklist.
+214. The Equity Checklist: Checklist.
+215. The Evidence Project risk of bias tool: Checklist.
+216. The GATE Frame: Framework.
+217. The GRACE Checklist: Checklist.
+218. The JADAD Score: Scale.
+219. The REal Life EVidence AssessmeNt Tool (RELEVANT): Checklist.
+220. The CHARMS Checklist: Checklist.
+221. TIDieR Checklist: Guideline.
+222. ToxRTool: Checklist.
+223. TRASI: Framework.
+224. Transparent Reporting of Evaluations with Nonrandomized Designs (TREND): Guideline.
+225. Web-based AMSTAR checklist: Service.
+226. When and how to update systematic reviews: Guidance.
+227. A-MADMAN: No public repo/Omics.
+228. ADAPTS: Omics.
+229. Amanida: Omics.
+230. BGLR: Omics.
+231. BIOMEX: Omics.
+232. CAPS: Lab tool.
+233. CancerEST: No public repo/Omics.
+234. CellDepot: Repository/Omics.
+235. DExMA: Omics.
+236. DEVEA: Omics.
+237. ENIGMA-Viewer: Consortium visualization.
+238. FIGS: Omics.
+239. GSEMA: Omics.
+240. GWAtoolbox: Omics.
+241. GWEHS: Omics.
+242. Genotype Harmonizer: Omics.
+243. GeNNet: Omics.
+244. GMCM: Omics.
+245. GWAMA: Omics.
+246. h0: Astronomy.
+247. IBD TaMMA: Omics.
+248. IGG3: No public repo/Omics.
+249. InMoose: Omics.
+250. KOGMWU: Omics.
+251. M6Allele: Lab tool.
+252. MAGE: Omics.
+253. MADAM: Omics.
+254. MAPPI-DAT: Lab tool.
+255. MATCH-IT: No public repo/Omics.
+256. MetaCyto: Omics.
+257. MetaGenyo: Omics.
+258. MetaMSD: Omics.
+259. MetaMass: Omics.
+260. MetaOmics: Omics.
+261. MetaQTL: Omics.
+262. MetaSKAT: Omics.
+263. METASOFT: No public repo/Omics.
+264. metLinkR: Omics.
+265. Metasubtract: Omics.
+266. metamicrobiomeR: Omics.
+267. MungeSumstats: Omics.
+268. NAM: Omics.
+269. Neurosynth Compose: Repository.
+270. OmicIntegrator: No public repo/Omics.
+271. OmicsView: Omics.
+272. PAReTT: Database retrieval.
+273. PharmacoGx: Omics.
+274. PitViper: Omics.
+275. PRED-LD: Lab tool.
+276. PyPop: Omics.
+277. PYRAMA: Omics.
+278. RankAggreg: Omics.
+279. Rankprod: Restricted license/Omics.
+280. RBPInper: Omics.
+281. RCPA: Omics.
+282. RetroBioCat: Biocatalysis tool.
+283. remaCor: Omics.
+284. rqt: Omics.
+285. sPLINK: Omics.
+286. SQC: Omics.
+287. SMAGEXP: Omics.
+288. Scope+: Omics.
+289. ScreenBEAM: Omics.
+290. SECIMTools: Omics.
+291. SelectBCM: Omics.
+292. SPAtest: Omics.
+293. TagDigger: Omics.
+294. TAMA: Omics.
+295. Tourmaline: Omics.
+296. ToNER: Lab tool.
+297. Vulture: Lab tool.
+298. wTO: Omics.
+299. catmap: Omics.
+300. fastMETA: Omics.
+301. metaGE: Omics.
+302. ofGEM: Omics.
+303. corrmeta: Omics.
+304. SRscore: Omics.
+305. GSMA: No public repo.
+306. Albatoss plot: Component of metap.
+307. ananse: Source not found.
+308. Confidence Interval Calculator: Excel format.
+309. DBPedia: Repository.
+310. Drug Herb Interaction Query Website: Database.
+311. Drug-Gene Interaction Database (DGIdb): Database.
+312. Epistemonikos: Database.
+313. Facilitating access to pre-processed research evidence in public health: Resource.
+314. Mapping MEDLINE: Resource.
+315. MarkerDB: Database.
+316. Medline (PubMed) trend: Resource.
+317. Metadataset: Data.
+318. NLM Medical Text Indexer (MTI): Backend tool.
+319. PDQ-Evidence: Database.
+320. PhenX Toolkit: Resource.
+321. PubMed Search Filter for Animal Studies: Resource.
+322. Meta-Essentials: Excel format/Non-commercial license.
+323. MetaEasy: Excel format.
+324. NetMetaXL: Excel format.
+325. Search Whiteboard: Excel format.
+326. roses-pdf-generator: Component/Utility.
+327. roses-website: Component/Utility.
+328. pdf-to-text: Utility.
+329. paperweight-python: Component.
+330. search_frontend: Component.
+331. keywords_extract: Component.
+332. search_counter: Utility.
+333. search_parser: Utility.
+334. bigquery-oag: Utility.
+335. keyword-recommendation: Utility.
+336. i3-export_to_drive: Utility.
+337. Recent_citations: Utility.
+338. Keyword_Identification: Utility.
+339. keyword_synonyms: Utility.
+340. ESMARConf2022_proposals: Conference material.
+341. esmarconf_updater: Script.
+342. shinyTemplate: Template.
+343. esmarconfsandbox: Sandbox.
+344. ESMARConf2023_Intro_GitHub: Workshop material.
+345. metafor_reports: Report.
+346. Automated_EGM: Project repo.
+347. RCT_Predictor: Utility/Unclear relevance.

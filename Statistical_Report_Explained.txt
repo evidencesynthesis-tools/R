@@ -1,0 +1,78 @@
+=================================================================
+  STATISTICAL ANALYSIS REPORT (Methodological Summary)
+=================================================================
+
+1. LANGUAGE vs WORKFLOW ASSOCIATION
+-------------------------------------------------------------------
+A Chi-Square Test of Independence was performed to evaluate the
+association between programming language and workflow stage.
+
+  - Sample Size (N): 277
+  - Chi-Square Statistic (X²): 122.37
+  - Degrees of Freedom (df): 48
+  - P-Value: < 0.001
+
+Interpretation:
+  A statistically significant association was observed between programming language and workflow stage (p < 0.001).
+  Effect Size (Cramer's V): 0.332 . This represents a medium association.
+
+2. TEMPORAL TREND ANALYSIS
+-------------------------------------------------------------------
+Poisson regression was utilized to model the annual incidence of new tools.
+To avoid bias from incomplete yearly data, the year 2026 was excluded
+from the regression model (data collection ceased February 2026).
+
+Year Attribution:
+  The year assigned to each tool corresponds to the year of its first
+  associated research publication. In cases where an original
+  publication year could not be identified, the publication year of
+  the most recent citable version of the software was used as a proxy.
+  This approach ensured consistent temporal classification while
+  minimizing missing data.
+
+  Although publication year may not perfectly represent the initial
+  release date of the software, it provides a standardized and
+  reproducible temporal reference for longitudinal analysis.
+
+  - Modeling Period: 2000 – 2025
+  - Model Type: Quasi-Poisson (Robust SE)
+  - Dispersion Statistic: 2.175
+
+Trend Description:
+  The annual output increased from 1 tools in 2000 to 24 tools in 2025.
+
+Interpretation:
+  - Incidence Rate Ratio (IRR): 1.158
+  - 95% Confidence Interval: [ 1.12 ,  1.198 ]
+  Because the confidence interval does not include 1.0, the upward
+  temporal trend is statistically significant.
+
+3. MARKET STRUCTURE (OSS vs Proprietary)
+-------------------------------------------------------------------
+Fisher's Exact Test was utilized to examine the relationship between
+ecosystem type and architectural modularity.
+
+Contingency Table:
+  - OSS Modular: 275 | OSS Integrated: 2
+  - Proprietary Modular: 56 | Proprietary Integrated: 34
+
+Interpretation:
+  - Odds Ratio (OR): 83.48
+  - 95% CI: [ 19.49 ,  357.6 ]
+  Proprietary tools were substantially more likely to be integrated compared to OSS tools (OR = 83.48 , 95% CI: 19.49 – 357.6 ).
+  Notably, the wide confidence interval reflects the scarcity of
+  integrated tools within the open-source ecosystem.
+
+4. EXCLUSION CRITERIA
+-------------------------------------------------------------------
+  Total Records Screened: 624
+  OSS Tools Included (Final Analysis): 277
+  Tools Excluded: 347
+
+Primary reasons for exclusion:
+  - Database                      : 10 (2.9%)
+  - Irrelevant Domain             : 70 (20.2%)
+  - Non-Software (Guide/Framework): 74 (21.3%)
+  - Other (Prototype/Abandoned)   : 103 (29.7%)
+  - Proprietary Software          : 56 (16.1%)
+  - SaaS/Service                  : 34 (9.8%)

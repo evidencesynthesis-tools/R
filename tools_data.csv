@@ -1,0 +1,277 @@
+	1	CitationChaser - 2022 - R - Automation
+	2	litsearchr - 2019 - R - Search
+	3	OpenAlex - 2022 - Python - Open Catalog
+	4	R: RISmed - 2021 - R - Search
+	5	R: easyPubMed - 2025 - R - Search
+	6	PubTator 3.0 - 2024 - Python - Text Mining
+	7	Unpaywall - 2018 - Python - Extension
+	8	R: openalex - 2024 - R - Search
+	9	Systematic Review Accelerator 2 (SRA2) - 2021 - Javascript - Workflow
+	10	TERA Explorer - 2020 - Vue - Workflow
+	11	SRA Polyglot - 2020 - Javasscript - Search
+	12	BioTextQuest v2.0 - 2024 - R - Text Mining
+	13	Kindred - 2017 - Python - Text Mining
+	14	Zotero - 2024 - Javascript - Manager
+	15	JabRef - 2021 - Java - Manager
+	16	OpenRefine - 2024 - Java - Data Cleaning
+	17	BiblioGlutton - 2024 - Java - Extension
+	18	Docear - 2011 - Java - Manager
+	19	ZotFile - 2024 - Java - Plugin
+	20	BibDesk - 2024 - Objective-C - Manager
+	21	BibSonomy - 2010 - Java - Manager
+	22	Zotero Better BibTeX - 2024 - TypeScript - Plugin
+	23	Papis - 2024 - Python - Manager
+	24	Manubot - 2019 - Python - Manager
+	25	Dedupe - 2022 - Python - Data Cleaning
+	26	ASReview - 2021 - Python - Screening
+	27	ReviewAid - 2025 - Python - Data Extraction
+	28	Abstrackr - 2012 - Python - Screening
+	29	Colandr - 2018 - Python - Workflow
+	30	R: revtools - 2019 - R - Screening
+	31	R: metagear - 2016 - R - Screening
+	32	RobotReviewer - 2016 - Python - Risk of Bias
+	33	Tabula - 2020 - CSS - Data Extraction
+	34	WebPlotDigitizer (v4) - 2017 - JavaScript - Data Extraction
+	35	GROBID - 2025 - Java - Data Extraction
+	36	OCRmyPDF - 2024 - Python - Data Extraction
+	37	Tesseract OCR - 2007 - C++ - Data Extraction
+	38	Pandoc - 2024 - Haskell - Workflow
+	39	Camelot - 2024 - Python - Data Extraction
+	40	PDFPlumber - 2026 - Python - Data Extraction
+	41	SciSpaCy - 2019 - Python - Text Mining
+	42	Nougat - 2024 - Python - Data Extraction
+	43	PDFtk (PDF Toolkit) - 2025 - Java - Workflow
+	44	PyPDF2 - 2024 - Python - Workflow
+	45	NLP Annotation - 2024 - Python - Text Mining
+	46	ImageJ - 2012 - Java - Data Extraction
+	47	Engauge Digitizer - 2024 - C++ - Data Extraction
+	48	Recogito - 2014 - PLpgSQL - Data Extraction
+	49	Hypothes.is - 2026 - Python - Screening
+	50	Critiplot - 2025 - Python - Visualization
+	51	robvis - 2021 - R - Visualization
+	52	NOS-TLPlot - 2026 - Python - Visualization
+	53	psychometric - 2024 - R - Visualization
+	54	metaviz - 2019 - R - Visualization
+	55	R: EValue - 2017 - R - Meta-analysis
+	56	psychmeta - 2019 - R - Meta-analysis
+	57	statcheck - 2016 - R - Automation
+	58	R: syuzhet - 2015 - R - Text Mining
+	59	R: metafor - 2010 - R - Meta-analysis
+	60	R: meta - 2019 - R - Meta-analysis
+	61	R: netmeta - 2012 - R - Meta-analysis
+	62	OpenMEE - 2017 - R - Meta-analysis
+	63	OpenMeta[Analyst] / Meta-Analyst - 2012 - Python - Meta-analysis
+	64	JASP - 2019 - C++ - Meta-analysis
+	65	OpenEpi - 2013 - R - Meta-analysis
+	66	PyMC - 2016 - Python - Meta-analysis
+	67	JAGS - 2003 - C++ - Meta-analysis
+	68	Stan - 2017 - C++ - Meta-analysis
+	69	R: meta4diag - 2018 - R - Meta-analysis
+	70	R: mada - 2022 - R - Meta-analysis
+	71	R: bmeta - 2025 - R - Meta-analysis
+	72	R: MAc - 2010 - R - Meta-analysis
+	73	R: metaRNAseq - 2014 - R - Meta-analysis
+	74	R: metaMA - 2009 - R - Meta-analysis
+	75	R: metaSEM - 2015 - R - Meta-analysis
+	76	R: gemtc - 2021 - R - Meta-analysis
+	77	R: multinma - 2020 - R - Meta-analysis
+	78	R: dosresmeta - 2016 - R - Meta-analysis
+	79	R: MetaForest - 2020 - R - Meta-analysis
+	80	R: Bayesmeta - 2020 - R - Meta-analysis
+	81	R: metapower - 2021 - R - Meta-analysis
+	82	R: metaumbrella - 2022 - R - Meta-analysis
+	83	R: pimeta - 2024 - R - Meta-analysis
+	84	R: metaplus - 2016 - R - Meta-analysis
+	85	R: robustmeta - 2023 - R - Meta-analysis
+	86	R: metamedian - 2020 - R - Meta-analysis
+	87	R: metaLik - 2017 - R - Meta-analysis
+	88	R: brms - 2017 - R - Meta-analysis
+	89	R: R2OpenBUGS - 2020 - R - Meta-analysis
+	90	BUGSnet - 2019 - R - Meta-analysis
+	91	R: robumeta - 2015 - R - Meta-analysis
+	92	R: dmetar - 2021 - R - Meta-analysis
+	93	MAvis - 2016 - R - Visualization
+	94	ShinyMeta - 2024 - R - Meta-analysis
+	95	compute.es - 2013 - R - Meta-analysis
+	96	VOSviewer - 2010 - Javascript - Visualization
+	97	PRISMA 2020 (Flow Diagram) - 2022 - R - Visualization
+	98	RawGraphs - 2017 - Javascript - Visualization
+	99	EviAtlas - 2019 - R - Visualization
+	100	bibliometrix - 2017 - R - Text Mining
+	101	Gephi - 2009 - Java - Visualization
+	102	Cytoscape - 2003 - Java - Visualization
+	103	QGIS - 2022 - C++ - Visualization
+	104	R: wordcloud - 2018 - R - Text Mining
+	105	R: ggraph - 2024 - R - Visualization
+	106	R: ggplot2 - 2016 - R - Visualization
+	107	R: patchwork - 2024 - R - Visualization
+	108	R: cowplot - 2024 - R - Visualization
+	109	Graphviz - 2000 - C - Visualization
+	110	Carrot2 - 2005 - Java - Search
+	111	Sci2 - 2014 - Java - Visualization
+	112	PyMedTermino - 2015 - Python - Search
+	113	BioEntrez - 2009 - Python - Search
+	114	R: RTextTools - 2013 - R - Text Mining
+	115	ArviZ - 2019 - Python - Meta-analysis
+	116	R: forestplot - 2024 - R - Visualization
+	117	R: clubSandwich - 2024 - R - Meta-analysis
+	118	R: MICE - 2011 - R - Data Extraction
+	119	PSPP - 2024 - C - Meta-analysis
+	120	Gretl - 2003 - C - Meta-analysis
+	121	OSF (Open Science Framework) - 2017 - Python - Workflow
+	122	spacy - 2020 - Python - Text Mining
+	123	R: tidytext - 2016 - R - Text Mining
+	124	R: quanteda - 2018 - R - Text Mining
+	125	R: topicmodels - 2011 - R - Text Mining
+	126	R: snowballC - 2023 - R - Text Mining
+	127	R: udpipe - 2017 - R - Text Mining
+	128	Citation.js - 2019 - Javascript - Automation
+	129	scikit-learn - 2011 - Python - Text Mining
+	130	transformers - 2020 - Python - Text Mining
+	131	R: R Markdown - 2018 - R - Workflow
+	132	R: bookdown - 2016 - R - Workflow
+	133	PDFMiner.six - 2024 - Python - Data Extraction
+	134	Gensim - 2010 - Python - Text Mining
+	135	Whoosh - 2024 - Python - Search
+	136	GPT-Researcher - 2024 - Python - Automation
+	137	Taguette - 2021 - Python - Data Extraction
+	138	QualCoder - 2024 - Python - Data Extraction
+	139	R: RQDA - 2024 - R - Data Extraction
+	140	CATMA - 2016 - Java - Data Extraction
+	141	ROSES flowchart - 2018 - R - Visualization
+	142	RefRandomiser - 2025 - Python - Screening
+	143	bibfix - 2021 - R - Automation
+	144	greylitsearcher - 2022 - R - Search
+	145	metadat - 2024 - R - Meta-analysis
+	146	PredicTER - 2019 - R - Manager
+	147	sysrevdata - 2018 - R - Data Extraction
+	148	Thallo Evidence Mapping - 2024 - TypeScript - Visualization
+	149	CiteSource - 2023 - R - Search
+	150	metaverse - 2020 - R - Workflow
+	151	synthesisr - 2024 - R - Manager
+	152	metaDigitise - 2019 - R - Data Extraction
+	153	Entrez Direct - 2013 - Python - Search
+	154	Rentrez - 2017 - R - Search
+	155	Science Parse - 2024 - Java - Data Extraction
+	156	AnyStyle - 2023 - Ruby - Data Extraction
+	157	Plot Digitizer - 2024 - Java - Data Extraction
+	158	KBibTeX - 2024 - C++ - Manager
+	159	Wikindx - 2024 - PHP - Manager
+	160	MetaInsight - 2019 - R - Meta-analysis
+	161	PyMARE - 2025 - Python - Meta-analysis
+	162	Jamovi - 2024 - Typescript - Meta-analysis
+	163	Meta-CART - 2019 - R - Meta-analysis
+	164	EPPI Reviewer - 2023 - C# - Workflow
+	165	MetaWin - 2024 - Python - Meta-analysis
+	166	Meta-DiSc - 2006 - R - Meta-analysis
+	167	SyRF - 2021 - R - Workflow
+	168	MetaDTA - 2019 - R - Meta-analysis
+	169	DiagMeta - 2016 - R - Meta-analysis
+	170	HSROC - 2012 - R - Meta-analysis
+	171	Metatron - 2005 - R - Meta-analysis
+	172	Kilim Plot / Vitruvian Plot - 2021 - R - Visualization
+	173	bamdit - 2019 - R - Meta-analysis
+	174	pcnetmeta - 2017 - R - Meta-analysis
+	175	mmeta - 2014 - R - Meta-analysis
+	176	bspmma - 2012 - R - Meta-analysis
+	177	RIMeta - 2023 - R - Meta-analysis
+	178	MA-cont - 2022 - R - Meta-analysis
+	179	MBNMAdose - 2021 - R - Meta-analysis
+	180	DenseReviewer - 2025 - Python - Screening
+	181	ASySD - 2023 - R - Manager
+	182	RobotSearch - 2018 - Python - Screening
+	183	Thoth - 2019 - PHP - Workflow
+	184	Paperfetcher - 2022 - Python - Search
+	185	PubMed Search Tester - 2020 - Javascript - Search
+	186	metapro - 2023 - R - Meta-analysis
+	187	SurvdigitizeR - 2024 - R - Data Extraction
+	188	CINeMA - 2020 - JavaScript - Risk of Bias
+	189	HAWC - 2018 - Python - Manager
+	190	metacp - 2025 - Python - Meta-analysis
+	191	searchbuildR - 2024 - R - Search
+	192	MSE FINDR - 2024 - R - Data Extraction
+	193	Auto-STEED - 2024 - R - Data Extraction
+	194	Trial2rev - 2019 - Python - Screening
+	195	metap - 2024 - R - Meta-analysis
+	196	RTSA - 2008 - R - Meta-analysis
+	197	mixmeta - 2019 - R - Meta-analysis
+	198	rnmamod - 2024 - R - Meta-analysis
+	199	baggr - 2026 - R - Meta-analysis
+	200	esc - 2019 - R - Data Extraction
+	201	metaBMA - 2021 - C++ - Meta-analysis
+	202	metasens - 2019 - R - Meta-analysis
+	203	bipd - 2024 - R - Meta-analysis
+	204	MetaStan - 2020 - C++ - Meta-analysis
+	205	MAd - 2014 - R - Meta-analysis
+	206	CaMeA - 2023 - R - Meta-analysis
+	207	mvtmeta - 2012 - R - Meta-analysis
+	208	mc.heterogeneity - 2017 - R - Meta-analysis
+	209	searchAnalyzeR - 2025 - R - Search
+	210	jarbes - 2019 - R - Meta-analysis
+	211	SCMA - 2013 - R - Meta-analysis
+	212	rmeta - 2018 - R - Meta-analysis
+	213	MVPBT - 2020 - R - Meta-analysis
+	214	meta-maive - 2025 - R - Meta-analysis
+	215	puniform - 2015 - R - Meta-analysis
+	216	bnma - 2023 - R - Meta-analysis
+	217	survNMA - 2025 - R - Meta-analysis
+	218	viscomp - 2023 - R - Visualization
+	219	artma - 2023 - R - Meta-analysis
+	220	dmetatools - 2021 - R - Meta-analysis
+	221	wildmeta - 2022 - R - Meta-analysis
+	222	mvmeta - 2012 - R - Meta-analysis
+	223	mars - 2025 - R - Meta-analysis
+	224	PINMA - 2023 - R - Meta-analysis
+	225	NMADTA - 2023 - R - Meta-analysis
+	226	coefa - 2023 - R - Meta-analysis
+	227	appraise - 2025 - R - Meta-analysis
+	228	metarep - 2023 - R - Meta-analysis
+	229	metaquant - 2024 - R - Meta-analysis
+	230	heterometa - 2024 - R - Meta-analysis
+	231	getspres - 2019 - R - Meta-analysis
+	232	rema - 2021 - R - Meta-analysis
+	233	vcmeta - 2015 - R - Meta-analysis
+	234	crossnma - 2024 - R - Meta-analysis
+	235	metapack - 2022 - C++ - Meta-analysis
+	236	nmarank - 2022 - R - Meta-analysis
+	237	CBnetworkMA - 2024 - C - Meta-analysis
+	238	pema - 2023 - C++ - Meta-analysis
+	239	altmeta - 2025 - R - Meta-analysis
+	240	boutliers - 2020 - R - Meta-analysis
+	241	metagroup - 2025 - R - Meta-analysis
+	242	nmaplateplot - 2025 - R - Visualization
+	243	selectMeta - 2011 - R - Meta-analysis
+	244	nmaINLA - 2018 - R - Meta-analysis
+	245	MetaNLP - 2025 - R - Meta-analysis
+	246	POMADE - 2024 - R - Meta-analysis
+	247	publipha - 2023 - C++ - Meta-analysis
+	248	OssaNMA - 2023 - R - Meta-analysis
+	249	metabup - 2022 - R - Meta-analysis
+	250	rankinma - 2024 - R - Meta-analysis
+	251	RBesT - 2021 - R - Meta-analysis
+	252	detectnorm - 2022 - R - Meta-analysis
+	253	multibiasmeta - 2024 - R - Meta-analysis
+	254	getmstatistic - 2017 - R - Meta-analysis
+	255	NMAforest - 2026 - R - Visualization
+	256	MBNMAtime - 2019 - R - Meta-analysis
+	257	tracenma - 2025 - R - Meta-analysis
+	258	metasplines - 2026 - R - Meta-analysis
+	259	metagam - 2021 - R - Meta-analysis
+	260	metansue - 2024 - R - Meta-analysis
+	261	RoBMA - 2020 - R - Meta-analysis
+	262	MetaAnalyser - 2016 - R - Visualization
+	263	WMAP - 2025 - R - Meta-analysis
+	264	HCT - 2022 - R - Meta-analysis
+	265	CRTSize - 2023 - R - Meta-analysis
+	266	MCMCglmm - 2010 - R - Meta-analysis
+	267	iSFun - 2022 - R - Meta-analysis
+	268	LitOrganizer - 2025 - Python - Data Extraction
+	269	PROMPTHEUS - 2025 - Python - Automation
+	270	LLAssist - 2024 - C# - Automation
+	271	EvidenceSynthesis - 2025 - R - Meta-analysis
+	272	Scholarly - 2021 - Python - Search
+	273	europepmc - 2020 - R - Search
+	274	QuickUMLS - 2016 - Python - Data Extraction
+	275	SciPDF Parser - 2020 - Python - Data Extraction
+	276	Open Knowledge Maps - 2024 - R - Visualization
+	277	CorTexT Manager - 2016 - Python - Visualization
