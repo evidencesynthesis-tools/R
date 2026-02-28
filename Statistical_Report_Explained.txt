@@ -36,32 +36,31 @@ Year Attribution:
 
   - Modeling Period: 2000 – 2025
   - Model Type: Quasi-Poisson (Robust SE)
-  - Dispersion Statistic: 2.175
+  - Dispersion Statistic: 2.203
 
 Trend Description:
   The annual output increased from 1 tools in 2000 to 24 tools in 2025.
 
 Interpretation:
   - Incidence Rate Ratio (IRR): 1.158
-  - 95% Confidence Interval: [ 1.12 ,  1.198 ]
+  - 95% Confidence Interval: [ 1.119 ,  1.198 ]
   Because the confidence interval does not include 1.0, the upward
   temporal trend is statistically significant.
 
 3. MARKET STRUCTURE (OSS vs Proprietary)
 -------------------------------------------------------------------
-Fisher's Exact Test was utilized to examine the relationship between
-ecosystem type and architectural modularity.
+A comparative analysis of the verified OSS dataset (n=277) against the
+identified proprietary sample (n=90) revealed a distinct architectural
+dichotomy.
 
 Contingency Table:
   - OSS Modular: 275 | OSS Integrated: 2
   - Proprietary Modular: 56 | Proprietary Integrated: 34
 
-Interpretation:
-  - Odds Ratio (OR): 83.48
-  - 95% CI: [ 19.49 ,  357.6 ]
-  Proprietary tools were substantially more likely to be integrated compared to OSS tools (OR = 83.48 , 95% CI: 19.49 – 357.6 ).
-  Notably, the wide confidence interval reflects the scarcity of
-  integrated tools within the open-source ecosystem.
+Descriptive Interpretation:
+  The analysis highlights a significant 'Modularity Gap' in the OSS ecosystem.
+  While integrated platforms constituted 37.8% (n=34) of the identified proprietary tools, they represented only 0.7% (n=2) of the open-source tools.
+  Conversely, 99.3% (n=275) of OSS tools were classified as modular libraries, compared to 62.2% (n=56) of proprietary tools.
 
 4. EXCLUSION CRITERIA
 -------------------------------------------------------------------

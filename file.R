@@ -87,17 +87,14 @@ if (dispersion_stat > 1.5) {
 }
 
 
-matrix_mkt <- matrix(c(n_oss_mod, n_oss_int, n_prop_mod, n_prop_int), 
-                     nrow = 2, byrow = TRUE,
-                     dimnames = list(c("OSS", "Proprietary"), c("Modular", "Integrated")))
-fisher_res <- fisher.test(matrix_mkt)
 
-odds_oss <- n_oss_int / n_oss_mod
-odds_prop <- n_prop_int / n_prop_mod
-odds_ratio <- odds_prop / odds_oss
-se_log_or <- sqrt((1/n_oss_mod) + (1/n_oss_int) + (1/n_prop_mod) + (1/n_prop_int))
-or_lower <- exp(log(odds_ratio) - 1.96 * se_log_or)
-or_upper <- exp(log(odds_ratio) + 1.96 * se_log_or)
+total_oss <- n_oss_mod + n_oss_int
+total_prop <- n_prop_mod + n_prop_int
+
+pct_oss_mod <- round(n_oss_mod / total_oss * 100, 1)
+pct_oss_int <- round(n_oss_int / total_oss * 100, 1)
+pct_prop_mod <- round(n_prop_mod / total_prop * 100, 1)
+pct_prop_int <- round(n_prop_int / total_prop * 100, 1)
 
 
 excl_calculated <- data.frame(Name = character(), Reason = character(), stringsAsFactors = FALSE)
@@ -192,21 +189,21 @@ report_lines <- c(
   "",
   "3. MARKET STRUCTURE (OSS vs Proprietary)",
   "-------------------------------------------------------------------",
-  "Fisher's Exact Test was utilized to examine the relationship between",
-  "ecosystem type and architectural modularity.",
+  paste0("A comparative analysis of the verified OSS dataset (n=", total_oss, ") against the"),
+  paste0("identified proprietary sample (n=", total_prop, ") revealed a distinct architectural"),
+  "dichotomy.",
   "",
   "Contingency Table:",
   paste("  - OSS Modular:", n_oss_mod, "| OSS Integrated:", n_oss_int),
   paste("  - Proprietary Modular:", n_prop_mod, "| Proprietary Integrated:", n_prop_int),
   "",
-  "Interpretation:",
-  paste("  - Odds Ratio (OR):", round(odds_ratio, 2)),
-  paste("  - 95% CI: [", round(or_lower, 2), ", ", round(or_upper, 2), "]"),
-paste("  Proprietary tools were substantially more likely to be",
-      "integrated compared to OSS tools (OR =", round(odds_ratio, 2), 
-      ", 95% CI:", round(or_lower,2), "–", round(or_upper,2), ")."),
-  "  Notably, the wide confidence interval reflects the scarcity of",
-  "  integrated tools within the open-source ecosystem.",
+  "Descriptive Interpretation:",
+  "  The analysis highlights a significant 'Modularity Gap' in the OSS ecosystem.",
+  paste0("  While integrated platforms constituted ", pct_prop_int, "% (n=", n_prop_int, 
+         ") of the identified proprietary tools, they represented only ", pct_oss_int, 
+         "% (n=", n_oss_int, ") of the open-source tools."),
+  paste0("  Conversely, ", pct_oss_mod, "% (n=", n_oss_mod, ") of OSS tools were classified as modular",
+         " libraries, compared to ", pct_prop_mod, "% (n=", n_prop_mod, ") of proprietary tools."),
   "",
   "4. EXCLUSION CRITERIA",
   "-------------------------------------------------------------------",
@@ -254,15 +251,6 @@ mkt_df <- data.frame(
   pivot_longer(cols = c(Modular, Integrated), names_to = "Type", values_to = "Count")
 
 
-
-total_oss <- sum(mkt_df$Count[mkt_df$Ecosystem == "Open-Source"])
-total_prop <- sum(mkt_df$Count[mkt_df$Ecosystem == "Proprietary"])
-
-
-pct_oss_mod <- round(mkt_df$Count[mkt_df$Ecosystem=="Open-Source" & mkt_df$Type=="Modular"] / total_oss * 100, 1)
-pct_oss_int <- round(mkt_df$Count[mkt_df$Ecosystem=="Open-Source" & mkt_df$Type=="Integrated"] / total_oss * 100, 1)
-pct_prop_mod <- round(mkt_df$Count[mkt_df$Ecosystem=="Proprietary" & mkt_df$Type=="Modular"] / total_prop * 100, 1)
-pct_prop_int <- round(mkt_df$Count[mkt_df$Ecosystem=="Proprietary" & mkt_df$Type=="Integrated"] / total_prop * 100, 1)
 
 figure2_addon <- paste0(
   "Figure 2: Open-Source, Modular - ", pct_oss_mod, "% ",
